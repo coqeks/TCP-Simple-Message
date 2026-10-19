@@ -1,4 +1,4 @@
-# C Socket Programming Stuff
+# TCP Simple Message
 
 A simple TCP client/server written in C++ for practicing socket programming. The client and server take turns sending messages to each other over `127.0.0.1:1234`.
 
